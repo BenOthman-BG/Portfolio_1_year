@@ -6,10 +6,10 @@ Welcome to my **first personal portfolio** as a Computer Science student. This r
 
 ## 📝 About Me
 
-- **Name:** Othman Benyahya  
-- **Field:** Computer Science Student  
-- **Focus Areas:** Artificial Intelligence (AI) & Cybersecurity  
-- **Initial Skills:** C, Java, Python, PL/SQL, PHP (Laravel), HTML, CSS, JavaScript, basic ML and Cybersecurity fundamentals  
+- **Name:** Othman Benyahya .
+- **Field:** Computer Science Student .  
+- **Focus Areas:** Artificial Intelligence (AI) & Cybersecurity .
+- **Initial Skills:** C, Java, Python, PL/SQL, PHP (Laravel), HTML, CSS, JavaScript, basic ML and Cybersecurity fundamentals .
 
 Through this portfolio, I aim to **track my progress and build a strong foundation in Computer Science**, while focusing on developing my skills in AI and Cybersecurity.
 
