@@ -17,4 +17,4 @@ Through this portfolio, I aim to **track my progress and build a strong foundati
 
 ## 📫 Contact
 
-For any questions or collaboration opportunities, feel free to reach me on [LinkedIn](https://www.linkedin.com/in/othmanbenyahya/).
+For any questions or collaboration opportunities, feel free to reach me on [LinkedIn](https://www.linkedin.com/in/othmanbenyahya/) .
